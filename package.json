@@ -1,13 +1,13 @@
 {
-  "name": "react-native-create-thumbnail",
+  "name": "@skqksh/react-native-create-thumbnail",
   "title": "React Native Create Thumbnail",
-  "version": "1.6.4",
+  "version": "1.6.4-1",
   "description": "iOS/Android thumbnail generator with support for both local and remote videos",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souvik-ghosh/react-native-create-thumbnail.git",
-    "baseUrl": "https://github.com/souvik-ghosh/react-native-create-thumbnail"
+    "url": "git+https://github.com/oedi-social/react-native-create-thumbnail.git",
+    "baseUrl": "https://github.com/oedi-social/react-native-create-thumbnail"
   },
   "keywords": [
     "react-native"
